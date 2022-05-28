@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-05-28T16:00:16.619Z</updated>
+  <updated>2022-05-28T16:35:21.437Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -21,14 +21,14 @@
     <link href="http://example.com/2022/05/28/Lecture1-Overview-of-Computer-Graphics/"/>
     <id>http://example.com/2022/05/28/Lecture1-Overview-of-Computer-Graphics/</id>
     <published>2022-05-28T13:29:37.000Z</published>
-    <updated>2022-05-28T16:00:16.619Z</updated>
+    <updated>2022-05-28T16:35:21.437Z</updated>
     
-    <content type="html"><![CDATA[<h1 id="计算机图形学"><a href="#计算机图形学" class="headerlink" title="计算机图形学"></a>计算机图形学</h1><h2 id="一、什么是好的画面？"><a href="#一、什么是好的画面？" class="headerlink" title="一、什么是好的画面？"></a>一、什么是好的画面？</h2><p>直接看这个画面是不是够亮，画面亮说明全局光照做的好 </p><p>特效是计算机图形学的一种简单应用</p><h2 id="二、计算机图形学的应用"><a href="#二、计算机图形学的应用" class="headerlink" title="二、计算机图形学的应用"></a>二、计算机图形学的应用</h2><p>电影动捕 设计 动画 光照</p><p>可视化 </p><p>虚拟现实：你看不到现实，用户看不到现实的东西，全是计算机模拟出来的</p><p>增强现实：用户可以看到现实，在现实的基础上还有虚拟的东西</p><p>数字绘画</p><p>模拟（仿真）：特效</p><p>图形化用户界面（GUI） </p>]]></content>
+    <content type="html"><![CDATA[<h1 id="计算机图形学简介"><a href="#计算机图形学简介" class="headerlink" title="计算机图形学简介"></a>计算机图形学简介</h1><h2 id="一、什么是好的画面？"><a href="#一、什么是好的画面？" class="headerlink" title="一、什么是好的画面？"></a>一、什么是好的画面？</h2><p>直接看这个画面是不是够亮，画面亮说明全局光照做的好 </p><p>特效是计算机图形学的一种简单应用</p><h2 id="二、计算机图形学的应用"><a href="#二、计算机图形学的应用" class="headerlink" title="二、计算机图形学的应用"></a>二、计算机图形学的应用</h2><p>电影动捕 设计 动画 光照</p><p>可视化 </p><p>虚拟现实：你看不到现实，用户看不到现实的东西，全是计算机模拟出来的</p><p>增强现实：用户可以看到现实，在现实的基础上还有虚拟的东西</p><p>数字绘画</p><p>模拟（仿真）：特效</p><p>图形化用户界面（GUI） </p><p>字体设计 TypoGraphy</p><h2 id="三、计算机图形学包括了那些内容"><a href="#三、计算机图形学包括了那些内容" class="headerlink" title="三、计算机图形学包括了那些内容"></a>三、计算机图形学包括了那些内容</h2><p>首先，本门课程不会涉及到OpenGL、DirectX、Vulkan等图形学API</p><ol><li>光栅化(Raterization)：将三位空间中的几何形体实时的显示在计算机 屏幕上 （实时，一般指每秒30帧）</li><li> 曲面</li><li> 光线追踪 目前在动画和电影中广泛使用</li><li> 动画（模拟、仿真） </li></ol><p>trade-off: 取舍</p><h2 id="四、CG和CV的区别"><a href="#四、CG和CV的区别" class="headerlink" title="四、CG和CV的区别"></a>四、CG和CV的区别</h2><p>一切需要猜的的都可以归为CV<br><img src="101-L1-G1.png"></p>]]></content>
     
     
       
       
-    <summary type="html">&lt;h1 id=&quot;计算机图形学&quot;&gt;&lt;a href=&quot;#计算机图形学&quot; class=&quot;headerlink&quot; title=&quot;计算机图形学&quot;&gt;&lt;/a&gt;计算机图形学&lt;/h1&gt;&lt;h2 id=&quot;一、什么是好的画面？&quot;&gt;&lt;a href=&quot;#一、什么是好的画面？&quot; class=&quot;headerli</summary>
+    <summary type="html">&lt;h1 id=&quot;计算机图形学简介&quot;&gt;&lt;a href=&quot;#计算机图形学简介&quot; class=&quot;headerlink&quot; title=&quot;计算机图形学简介&quot;&gt;&lt;/a&gt;计算机图形学简介&lt;/h1&gt;&lt;h2 id=&quot;一、什么是好的画面？&quot;&gt;&lt;a href=&quot;#一、什么是好的画面？&quot; class=&quot;</summary>
       
     
     

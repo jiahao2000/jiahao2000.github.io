@@ -1,3 +1,5 @@
+http://example.com/2022/06/02/1-1%E7%AE%80%E4%BB%8B/
+http://example.com/categories/index-3.html
 http://example.com/2022/05/28/Lecture1-Overview-of-Computer-Graphics/
 http://example.com/categories/index-2.html
 http://example.com/categories/index-1.html
@@ -7,3 +9,4 @@ http://example.com/2022/05/27/%E6%AC%A2%E8%BF%8E%E6%A2%85%E5%B0%8F%E5%80%A9/
 http://example.com/2022/05/27/hello-world/
 http://example.com/
 http://example.com/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6/
+http://example.com/categories/C%E5%92%8C%E6%8C%87%E9%92%88%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/

@@ -6,7 +6,7 @@
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
-  <updated>2022-05-28T16:35:21.437Z</updated>
+  <updated>2022-07-08T11:27:35.610Z</updated>
   <id>http://example.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>第一章</title>
+    <link href="http://example.com/2022/06/02/1-1%E7%AE%80%E4%BB%8B/"/>
+    <id>http://example.com/2022/06/02/1-1%E7%AE%80%E4%BB%8B/</id>
+    <published>2022-06-02T07:35:13.000Z</published>
+    <updated>2022-07-08T11:27:35.610Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="第一章-1-1简介"><a href="#第一章-1-1简介" class="headerlink" title="第一章 1.1简介"></a>第一章 1.1简介</h1><h2 id="一个简单的程序"><a href="#一个简单的程序" class="headerlink" title="一个简单的程序"></a>一个简单的程序</h2><p>gets和puts 属于stdio.h中</p><p>C语言中每行以换行符作为结束标志 \n</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;第一章-1-1简介&quot;&gt;&lt;a href=&quot;#第一章-1-1简介&quot; class=&quot;headerlink&quot; title=&quot;第一章 1.1简介&quot;&gt;&lt;/a&gt;第一章 1.1简介&lt;/h1&gt;&lt;h2 id=&quot;一个简单的程序&quot;&gt;&lt;a href=&quot;#一个简单的程序&quot; class=&quot;he</summary>
+      
+    
+    
+    
+    <category term="C和指针读书笔记" scheme="http://example.com/categories/C%E5%92%8C%E6%8C%87%E9%92%88%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Lecture1 Overview of Computer Graphics</title>
